@@ -4,7 +4,7 @@
   padding: 0;
 }
 body {
-  width: 100%;
+  width: 90%;
   height: 150vh;
   display: flex;
   flex-direction: column;
